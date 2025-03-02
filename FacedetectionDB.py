@@ -7,7 +7,7 @@ import os
 db_config = {
     'host': 'localhost',
     'user': 'root',
-    'password': '1970',  # Update this with your correct password
+    'password': '',  # Update this with your correct password
     'database': 'facerecognitiondb'
 }
 
